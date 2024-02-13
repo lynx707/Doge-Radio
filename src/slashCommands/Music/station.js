@@ -41,17 +41,17 @@ const ress = await db1.findOne({ Guild: interaction.guildId });
             {
               label: 'Chill Radio',
               value: 'anime',
-              emoji: '🌸',
+              emoji: '🎻',
             },
             {
               label: 'Dance & Vibe Radio',
               value: 'sleep',
-              emoji: '😴',
+              emoji: '🥁',
             },
             {
               label: 'Romantic Radio',
               value: 'study',
-              emoji: '📖',
+              emoji: '🎷',
             }
           ])
       )
@@ -69,17 +69,17 @@ const ress = await db1.findOne({ Guild: interaction.guildId });
             {
               label: 'Chill Radio',
               value: 'anime',
-              emoji: '🌸',
+              emoji: '🎻',
             },
             {
               label: 'Dance & Vibe Radio',
               value: 'sleep',
-              emoji: '😴',
+              emoji: '🥁',
             },
             {
               label: 'Romantic Radio',
               value: 'study',
-              emoji: '📖',
+              emoji: '🎷',
             }
           ])
       )
